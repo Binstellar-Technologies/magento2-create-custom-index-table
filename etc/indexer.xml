@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Indexer/etc/indexer.xsd">
+    <indexer id="binstellar_customindexer_indexer" view_id="binstellar_customindexer_indexer" class="Binstellar\CustomIndexer\Model\Indexer\Test">
+        <title translate="true">Binstellar CustomIndexer</title>
+        <description translate="true">Custom indexer</description>
+    </indexer>
+</config>
